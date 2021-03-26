@@ -46,9 +46,11 @@ test('Probar con async', async () => {
     expect(string).toBe('aloh')
 })
 
+/*
 beforeAll(() => console.log(' === iniciando suite ==='))
 
 beforeEach(() => console.log(' === antes de cada prueba ==='))
 afterEach(() => console.log(' === despues de cada prueba ==='))
 
 afterAll(() => console.log(' === suite terminada ==='))
+*/
